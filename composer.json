@@ -1,0 +1,12 @@
+{
+    "name": "wufashanchu/ysdk",
+    "description": "ysdk SDK",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ysdk\\src\\": "src/",
+            "Ysdk\\src\\lib\\": "lib/"
+        }
+    }
+}
